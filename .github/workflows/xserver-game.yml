@@ -1,4 +1,4 @@
-name: XServerGame-Renew
+name: XServerGame-MA-Renew
 on:
   workflow_dispatch:
   schedule:
